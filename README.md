@@ -14,6 +14,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **Street Fighter II · Web Tribute** | Street Fighter II 街头霸王 2 | Fighting 格斗 | https://street-fighter-2-two.vercel.app |
 | **Super Pip** | Super Mario 超级马里奥 | Platformer 横版闯关 | https://super-mario-gamma-rust.vercel.app |
 | **英雄无敌 · 网页版** | Heroes of Might and Magic III 英雄无敌 3 | Turn-based strategy 回合制策略 | https://heroes-might-magic.vercel.app |
+| **荆轲新传 · Web 版** | 侠客情 · 荆轲新传 (FC) | RPG 回合制角色扮演 | https://jingke-xinzhuan.vercel.app |
 
 ## Originals · 原创
 
