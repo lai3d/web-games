@@ -16,6 +16,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **英雄无敌 · 网页版** | Heroes of Might and Magic III 英雄无敌 3 | Turn-based strategy 回合制策略 | https://heroes-might-magic.vercel.app |
 | **荆轲新传 · Web 版** | 侠客情 · 荆轲新传 (FC) | RPG 回合制角色扮演 | https://jingke-xinzhuan.vercel.app |
 | **仙剑奇侠传 · Web 版** | 仙剑奇侠传 (1995 DOS) | RPG 回合制角色扮演 | https://xianjian-web.vercel.app |
+| **枫叶岛物语 · Maple Isle Tales** | MapleStory 冒险岛 | Side-scrolling action RPG 横版动作 RPG | https://maple-web-pi.vercel.app |
 
 ## Originals · 原创
 
