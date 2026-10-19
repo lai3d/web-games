@@ -15,7 +15,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **Super Pip** | Super Mario 超级马里奥 | Platformer 横版闯关 | https://super-mario-gamma-rust.vercel.app |
 | **英雄无敌 · 网页版** | Heroes of Might and Magic III 英雄无敌 3 | Turn-based strategy 回合制策略 | https://heroes-might-magic.vercel.app |
 | **荆轲新传 · Web 版** | 侠客情 · 荆轲新传 (FC) | RPG 回合制角色扮演 | https://jingke-xinzhuan.vercel.app |
-| **仙剑奇侠传 · Web 版** | 仙剑奇侠传 (1995 DOS) | RPG 回合制角色扮演 | https://xj.qfc.network |
+| **仙剑奇侠传 · Web 版** | 仙剑奇侠传 (1995 DOS) | RPG 回合制角色扮演 | https://xj.qfc.network<br>https://xianjian-web.vercel.app |
 | **枫叶岛物语 · Maple Isle Tales** | MapleStory 冒险岛 | Side-scrolling action RPG 横版动作 RPG | https://maple-web-pi.vercel.app |
 | **星际争霸 · 网页版** | StarCraft 星际争霸 | RTS 即时战略 | https://starcraft-web.vercel.app |
 
