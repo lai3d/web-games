@@ -23,6 +23,6 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 
 ---
 
-All art and audio are drawn or synthesized in code. These are fan-made tributes, not affiliated with the original publishers.
+These are fan-made tributes, not affiliated with the original publishers.
 
-画面与音效均由代码绘制 / 合成。均为爱好者致敬作品，与原版发行商无关。
+均为爱好者致敬作品，与原版发行商无关。
