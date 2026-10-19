@@ -20,6 +20,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | --- | --- | --- |
 | **Roadster Flight Test** | Fly a Roadster over canyons with cold-gas thrusters and flips. 驾驶 Roadster 喷气飞越峡谷、空翻落地 | https://roadster-lac.vercel.app |
 | **烟霾季 · Haze Season** | Survive 7 days of Singapore haze as a delivery rider (zh / en). 在新加坡烟霾季当外卖骑手撑过 7 天 | https://haze-iota-virid.vercel.app |
+| **小贩英雄 · Hawker Hero** | Run a Singapore hawker stall, from chicken rice to a Golden Chopsticks award (zh / en). 在新加坡小贩中心开摊，从鸡饭档做到「金筷子指南」 | https://hawker-hero-alpha.vercel.app |
 
 ---
 
