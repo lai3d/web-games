@@ -29,6 +29,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **烟霾季 · Haze Season** | Survive 7 days of Singapore haze as a delivery rider (zh / en). 在新加坡烟霾季当外卖骑手撑过 7 天 | https://haze-iota-virid.vercel.app |
 | **小贩英雄 · Hawker Hero** | Run a Singapore hawker stall, from chicken rice to a Golden Chopsticks award (zh / en). 在新加坡小贩中心开摊，从鸡饭档做到「金筷子指南」 | https://hawker-hero-alpha.vercel.app |
 | **万灯渡 · Web 版** | Original xianxia RPG: a riverside boy in Jiangnan meets a girl who steps out of a river lantern. 原创仙侠 RPG，江南渡口少年与河灯少女的故事 | https://wd.qfc.network<br>https://wandeng-web.vercel.app |
+| **财神到 · Caishen** | Slot-machine roguelike with a Lunar New Year theme: build your reels from lucky cats, red packets and firecrackers. 老虎机 Roguelike，用招财猫、红包、鞭炮组出你的转轴 | https://caishen-five.vercel.app |
 
 ---
 
