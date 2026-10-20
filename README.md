@@ -17,6 +17,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **荆轲新传 · Web 版** | 侠客情 · 荆轲新传 (FC) | RPG 回合制角色扮演 | https://jingke-xinzhuan.vercel.app |
 | **仙剑奇侠传 · Web 版** | 仙剑奇侠传 (1995 DOS) | RPG 回合制角色扮演 | https://xj.qfc.network<br>https://xianjian-web.vercel.app |
 | **枫叶岛物语 · Maple Isle Tales** | MapleStory 冒险岛 | Side-scrolling action RPG 横版动作 RPG | https://maple-web-pi.vercel.app |
+| **大话骰 · Liar's Dice Night** | 大话骰 / Liar's Dice bar game | Party dice 酒吧骰子 | https://liars-dice-jade.vercel.app |
 | **星际争霸 · 网页版** | StarCraft 星际争霸 | RTS 即时战略 | https://starcraft-web.vercel.app |
 
 ## Originals · 原创
