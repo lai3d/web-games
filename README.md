@@ -22,6 +22,18 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **深渊之门 · Abyssgate** | Diablo III 暗黑破坏神 3 | Action RPG 动作刷宝 | https://abyssgate.qfc.network<br>https://abyssgate.vercel.app |
 | **孤刃 · Lone Blade** | 流星蝴蝶剑 Meteor, Butterfly, Sword | 3D wuxia action duel 3D 武侠动作对决 (4 weapons, combos, AI) | https://blade.qfc.network |
 
+## DOTA spin-offs · DOTA 小游戏
+
+Built on the web DOTA's heroes, models and effects. 用网页版 DOTA 的英雄、模型和特效做的小游戏。
+
+| Game · 游戏 | Inspired by · 致敬 | About · 简介 | Play · 在线游玩 |
+| --- | --- | --- | --- |
+| **DOTA 自走棋** | Dota Auto Chess 刀塔自走棋 | 8-player auto battler: shop, star-ups, race/class synergies, creep rounds. 8 人局，商店、升星、种族职业羁绊、野怪回合 | https://dota-web.qfc.network/chess.html |
+| **屠夫钩钩乐** | Pudge Wars | Teams of Pudges hook each other across the river, 3v3 or 5v5 vs AI. 两队屠夫隔河互丢钩子，钩子升级、符文 | https://dota-web.qfc.network/pudge.html |
+| **DOTA 幸存者** | Vampire Survivors 吸血鬼幸存者 | Survive 15 minutes of creep waves, pick upgrades, beat Roshan. 撑过 15 分钟怪潮，三选一升级，打肉山 | https://dota-web.qfc.network/survive.html |
+| **DOTA 塔防** | Tower defense 塔防 | Dota heroes as towers, 20 waves ending with Roshan. 英雄当防御塔，20 波，最后一波是肉山 | https://dota-web.qfc.network/td.html |
+| **DOTA 大逃杀** | Battle royale 大逃杀 | 12 heroes free-for-all in a shrinking poison ring: chests, jungle, Roshan's Aegis. 12 英雄各自为战，毒圈收缩，开箱打野抢不朽盾 | https://dota-web.qfc.network/br.html |
+
 ## Originals · 原创
 
 | Game · 游戏 | About · 简介 | Play · 在线游玩 |
