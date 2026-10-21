@@ -10,7 +10,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | --- | --- | --- | --- |
 | **赤色前线 · Crimson Front** | Red Alert 红色警戒 | RTS 即时战略 (3D, AI, campaign, online 1v1) | https://red-alert.qfc.network<br>https://red-alert-web.vercel.app |
 | **玛法传说** | Legend of Mir 传奇 | MMORPG-style ARPG | https://legend-of-mir.vercel.app |
-| **网页版 DOTA** | DOTA | 5v5 MOBA (3D) | https://dota-phi-sandy.vercel.app |
+| **网页版 DOTA** | DOTA | 5v5 MOBA (3D) | https://dota-web.qfc.network<br>Unity 版 https://dota-unity.qfc.network<br>https://dota-phi-sandy.vercel.app |
 | **Street Fighter II · Web Tribute** | Street Fighter II 街头霸王 2 | Fighting 格斗 | https://street-fighter-2-two.vercel.app |
 | **Super Pip** | Super Mario 超级马里奥 | Platformer 横版闯关 | https://super-mario-gamma-rust.vercel.app |
 | **英雄无敌 · 网页版** | Heroes of Might and Magic III 英雄无敌 3 | Turn-based strategy 回合制策略 | https://hmm.qfc.network<br>https://heroes-might-magic.vercel.app |
