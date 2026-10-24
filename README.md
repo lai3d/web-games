@@ -33,6 +33,7 @@ Built on the web DOTA's heroes, models and effects. 用网页版 DOTA 的英雄�
 | **DOTA 幸存者** | Vampire Survivors 吸血鬼幸存者 | Survive 15 minutes of creep waves, pick upgrades, beat Roshan. 撑过 15 分钟怪潮，三选一升级，打肉山 | https://dota-web.qfc.network/survive.html |
 | **DOTA 塔防** | Tower defense 塔防 | Dota heroes as towers, 20 waves ending with Roshan. 英雄当防御塔，20 波，最后一波是肉山 | https://dota-web.qfc.network/td.html |
 | **DOTA 大逃杀** | Battle royale 大逃杀 | 12 heroes free-for-all in a shrinking poison ring: chests, jungle, Roshan's Aegis. 12 英雄各自为战，毒圈收缩，开箱打野抢不朽盾 | https://dota-web.qfc.network/br.html |
+| **DOTA 大陆** | Open-world MMORPG 开放世界 MMORPG | Open world on the DOTA map: level 1–20 camps, elites, Roshan as world boss, saves, and a shared online world. 开放世界 RPG：按区域分级的野怪、精英、世界首领肉山，存档，联机时和其他玩家在同一个世界 | https://dota-web.qfc.network（主菜单「🌍 DOTA 大陆」/「🌐 联机」） |
 
 ## Originals · 原创
 
