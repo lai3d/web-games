@@ -21,6 +21,7 @@ Browser remakes and tributes of classic games, plus a couple of originals. Every
 | **星际争霸 · 网页版** | StarCraft 星际争霸 | RTS 即时战略 | https://starcraft.qfc.network<br>https://starcraft-web.vercel.app |
 | **深渊之门 · Abyssgate** | Diablo III 暗黑破坏神 3 | Action RPG 动作刷宝 | https://abyssgate.qfc.network<br>https://abyssgate.vercel.app |
 | **孤刃 · Lone Blade** | 流星蝴蝶剑 Meteor, Butterfly, Sword | 3D wuxia action duel 3D 武侠动作对决 (4 weapons, combos, AI) | https://blade.qfc.network |
+| **一灯禅院** | 산사 Sansa online temple | Multiplayer 3D online temple 多人网上山寺 (incense, bell, wooden fish, prayer beads, wish lanterns) | https://chan.qfc.network<br>https://temple-web-gray.vercel.app |
 
 ## DOTA spin-offs · DOTA 小游戏
 
